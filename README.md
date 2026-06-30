@@ -1,10 +1,11 @@
-<!-- markdownlint-disable MD001 MD041 -->
 
-> [!IMPORTANT] Repository Archived
+> 📌 Repository Archived
 > The `vllm-FL` repository is archived as the development has shifted to the [`vllm-plugin-FL`](https://github.com/flagos-ai/vllm-plugin-FL) project.
 
 ---
-**vLLM-FL is a fork of vLLM that introduces a plugin-based architecture for supporting diverse AI chips, built on top of [FlagOS](https://github.com/flagos-ai), a unified open-source AI system software stack.**
+
+vLLM-FL is a fork of vLLM that introduces a plugin-based architecture for supporting diverse AI chips, built on top of [FlagOS](https://github.com/flagos-ai),
+a unified open-source AI system software stack.
 
 ---
 
